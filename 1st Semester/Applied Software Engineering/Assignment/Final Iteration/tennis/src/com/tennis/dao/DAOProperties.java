@@ -10,7 +10,7 @@ import java.util.Properties;
  * properties file. There is a property getter which only returns the property prefixed with
  * 'specificKey' and provides the option to indicate whether the property is mandatory or not.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class DAOProperties
 {

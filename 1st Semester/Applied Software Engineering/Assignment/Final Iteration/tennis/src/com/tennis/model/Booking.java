@@ -7,7 +7,7 @@ import java.util.Date;
  * This class represents the Booking model. This model class can be used throughout all
  * layers, the data layer, the controller layer and the view layer.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class Booking implements Serializable
 {

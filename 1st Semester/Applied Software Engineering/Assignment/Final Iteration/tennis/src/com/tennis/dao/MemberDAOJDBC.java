@@ -14,7 +14,7 @@ import com.tennis.model.Member;
 /**
  * This class represents a concrete JDBC implementation of the {@link MemberDAO} interface.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class MemberDAOJDBC implements MemberDAO
 {

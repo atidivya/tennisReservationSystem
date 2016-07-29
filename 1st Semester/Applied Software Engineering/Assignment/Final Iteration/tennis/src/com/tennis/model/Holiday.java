@@ -7,7 +7,7 @@ import java.util.Date;
  * This class represents the Holiday model. This model class can be used throughout all
  * layers, the data layer, the controller layer and the view layer.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class Holiday implements Serializable
 {

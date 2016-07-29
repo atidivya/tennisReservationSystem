@@ -4,7 +4,7 @@ package com.tennis.dao;
  * This class represents an exception in the DAO configuration which cannot be resolved at runtime,
  * such as a missing resource in the classpath, a missing property in the properties file, etcetera.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class DAOConfigurationException extends RuntimeException
 {

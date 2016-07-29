@@ -4,7 +4,7 @@ package com.tennis.dao;
  * This class represents a generic DAO exception. It should wrap any exception of the underlying
  * code, such as SQLExceptions.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class DAOException extends RuntimeException
 {

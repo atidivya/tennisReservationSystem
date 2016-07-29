@@ -9,7 +9,7 @@ import com.tennis.model.Member;
  * Note that all methods which returns the {@link Member} from the DB, will not
  * fill the model with the password, due to security reasons.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public interface MemberDAO
 {

@@ -13,7 +13,7 @@ import java.time.LocalTime;
  * single static methods. As far it contains PreparedStatement values setter and a
  * <code>java.util.Date</code> to <code>java.sql.Date</code> converter.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public final class DAOUtil
 {

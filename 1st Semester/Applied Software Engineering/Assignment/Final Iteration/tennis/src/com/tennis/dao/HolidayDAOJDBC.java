@@ -15,7 +15,7 @@ import com.tennis.model.Holiday;
 /**
  * This class represents a concrete JDBC implementation of the {@link Holiday} interface.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class HolidayDAOJDBC implements HolidayDAO
 {

@@ -9,7 +9,7 @@ import com.tennis.model.Court;
  * Note that all methods which returns the {@link Court} from the DB, will not
  * fill the model with the password, due to security reasons.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public interface CourtDAO
 {

@@ -14,7 +14,7 @@ import com.tennis.model.Court;
 /**
  * This class represents a concrete JDBC implementation of the {@link CourtDAO} interface.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class CourtDAOJDBC implements CourtDAO
 {

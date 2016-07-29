@@ -10,7 +10,7 @@ import com.tennis.model.Holiday;
  * Note that all methods which returns the {@link Holiday} from the DB, will not
  * fill the model with the password, due to security reasons.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public interface HolidayDAO
 {

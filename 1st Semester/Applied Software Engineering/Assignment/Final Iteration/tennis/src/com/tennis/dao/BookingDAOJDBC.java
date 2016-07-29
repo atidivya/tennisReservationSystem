@@ -17,7 +17,7 @@ import com.tennis.model.Member;
 /**
  * This class represents a concrete JDBC implementation of the {@link BookingDAO} interface.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class BookingDAOJDBC implements BookingDAO
 {

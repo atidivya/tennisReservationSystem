@@ -6,7 +6,7 @@ import java.io.Serializable;
  * This class represents the Member model. This model class can be used throughout all
  * layers, the data layer, the controller layer and the view layer.
  * 
- * @author Jose Monteiro
+ * @author Atidivya
  */
 public class Member implements Serializable
 {
